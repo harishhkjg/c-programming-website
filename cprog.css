@@ -1796,6 +1796,11 @@ a:hover
 /* Responsive Webdesign*/
 @media screen and (max-width:700px)
 {
+    .head
+    {
+        font-size:45px;
+        width: 1400px;
+    }
     .cpro
     {position:absolute;
         padding:1px 1px 1 1px;
@@ -1812,103 +1817,232 @@ a:hover
     {
         position: absolute;
         padding:1px 1px 1 1px;
-        top:450;
-        left:10;
+        top:300;
+        left:490;
     }
     .cpro3
     {
         position:absolute;
         padding:1px 1px 1 1px;
-        top:450;
-        left:250;
+        top:300;
+        left:730;
     }
     .cpro4{
         position: absolute;
         padding: 1px 1px 1 1px; 
-        top:600; 
-        left:10;}
+        top:300; 
+        left:970;}
     .cpro5
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:600;
-        left:250;
+        top:300;
+        left:1200;
     }
     .cpro6
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:750;
+        top:450;
         left:10;
     }
     .cpro7
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:750;
+        top:450;
         left:250;
     }
     .cpro8
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:900;
-        left:10;
+        top:450;
+        left:490;
     }
     .cpro9{
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:900;
-        left:250;
+        top:450;
+        left:730;
     }
     .cpro10
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1050;
-        left:10;
+        top:450;
+        left:970;
     }
     .cpro11
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1050;
-        left:250;
+        top:450;
+        left:1200;
     }
     .cpro12
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1200;
+        top:600;
         left:10;
     }
     .cpro13
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1200;
+        top:600;
         left:250;
     }
     .cpro14
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1350;
-        left:10;
+        top:600;
+        left:490;
     }
     .cpro15
     {
         position: absolute;
         padding: 1px 1px 1 1px;
-        top:1350;
+        top:600;
+        left:730;
+    }
+    .cpro16
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:600;
+        left:970;
+
+    }
+    .cpro17{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:600;
+        left:1200;
+    }
+    .cpro18
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
+        left:10;
+    }
+    .cpro19{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
         left:250;
     }
+    .cpro20{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
+        left:490;
+    }
+    .cpro21{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
+        left:730;
+    }
+    .cpro22
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
+        left:970;
+    }
+    .cpro23
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:750;
+        left:1200;
+    }
+    .cpro24
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:10;
+    }
+    .cpro25{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:250;
+    }
+    .cpro26
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:490;
+    }
+    .cpro27{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:730;
+    }
+    .cpro28{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:970;
+    }
+    .cpro29{
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:900;
+        left:1200;
+    }
+    .cpro30
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:10;
+    }
+    .cpro31
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:250;
+    }
+    .cpro32
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:490;
+    }
+    .cpro33
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:730;
+    }
+    .cpro34
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:970;
+    }
+    .cpro35
+    {
+        position: absolute;
+        padding: 1px 1px 1 1px;
+        top:1050;
+        left:1200;
+    }
 
-
-
-          .cpro16,.cpro17,.cpro18
-          ,.cpro19,.cpro20,.cpro21,.cpro22,.cpro23,.cpro24,.cpro25,.cpro26,.cpro27,.cpro28,.cpro29,.cpro30,.cpro31,.cpro32,
-          .cpro33,.cpro34,.cpro35,.cpro36,.cpro37,.cpro38,.cpro40,.cpro41,.cpro42,.cpro43,.cpro44,.cpro45
+          .cpro36,.cpro37,.cpro38,.cpro39,.cpro40,.cpro41,.cpro42,.cpro43,.cpro44,.cpro45,
           .cpro46,.cpro47,.cpro48,.cpro49,.cpro50,.cpro51,.cpro52,.cpro53,.cpro54,.cpro55,.cpro56,.cpro57
           ,.cpro57,.cpro58,.cpro58,.cpro59,.cpro60,.cpro61,.cpro62,.cpro63,.cpro64,.cpro65,.cpro66,.cpro67
           ,.cpro68,.cpro69,.cpro70,.cpro71,.cpro72,.cpro73,.cpro74,.cpro75,.cpro76,.cpro77,.cpro78,.cpro79
