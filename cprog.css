@@ -4,8 +4,8 @@
     font-size:40px;
     color: #fff;
     background: linear-gradient(90deg,#0162c8,#55e7fc);
-    text-align: center;
     margin-bottom:30px;
+    text-align: center;
 }
 /* animation part */
 
@@ -40,1737 +40,7 @@
 }
 
 /* box style */
-.cpro
-{
-    animation: fadeBounce 1s  forwards;
-    background: #d3dee7;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    box-shadow:5px 10px #c8c8c8;
-    
-}
-.cpro1
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position: absolute;
-    right:850px;
-    top: 200px;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro2
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    right:550px;
-    top:200px;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro3
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    right:250px;
-    top:200px;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro4
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:200;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro5
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:350;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro6
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:350;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro7
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:350;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro8
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:350;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro9
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:350;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro10
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:525;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro11
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:525;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro12
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:525;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro13
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:525;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro14
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:525;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro15
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:700;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro16
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:700;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro17
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:700;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro18
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:700;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro19
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:700;
-    box-shadow:5px 10px #c8c8c8;
 
-}
-
-.cpro20
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:875;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro21
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:875;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro22
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:875;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro23
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:875;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro24
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:875;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro25
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1050;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro26
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1050;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro27
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1050;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro28
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1050;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro29
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1050;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro30
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1225;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro31
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1225;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro32
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1225;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro33
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1225;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro34
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1225;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro35
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1400;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro36
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1400;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro37
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1400;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro38
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1400;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro39
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1400;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro40
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1575;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro41
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1575;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro42
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1575;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro43
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1575;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro44
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1575;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro45
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1750;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro46
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1750;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro47
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1750;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro48
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1750;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro49
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1750;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro50
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:1925;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro51{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:1925;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro52{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:1925;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro53{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:1925;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro54
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:1925;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro55
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2100;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro56
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2100;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro57
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2100;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro58
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2100;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro59
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2100;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro60
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2275;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro61{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2275;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro62{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2275;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro63
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2275;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro64
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2275;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro65{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2450;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro66
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2450;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro67
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2450;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro68
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2450;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro69
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2450;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro70
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2625;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro71
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2625;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro72
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2625;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro73{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2625;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro74{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2625;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro75
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2800;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro76
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2800;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro77
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2800;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro78
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2800;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro79
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2800;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro80
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:2975;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro81
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:2975;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro82{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:2975;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro83
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:2975;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro84
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:2975;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-
-.cpro85
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:0;
-    top:3150;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro86
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:300;
-    top:3150;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro87
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:600;
-    top:3150;
-    box-shadow:5px 10px #c8c8c8;
-}
-
-.cpro88
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:900;
-    top:3150;
-    box-shadow:5px 10px #c8c8c8;
-}
-.cpro89
-{
-    animation: fadeBounce 1s  forwards;
-    background:#d3dee7;
-    background-color:#e7eff5;
-    padding: 20px 20px 0 20px;
-    border: 2px solid #d3dee7;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 30px;
-    width: 150px;
-    height: 70px;
-    border-radius: 10px;
-    position:   absolute;
-    text-align: center;
-    left:1150;
-    top:3150;
-    box-shadow:5px 10px #c8c8c8;
-}
 /* anchor tag*/
 a
 {
@@ -1787,637 +57,3792 @@ a:hover
     background:linear-gradient(90deg,#0162c8,#55e7fc);
     transition:2s;
 }
-
-
-
-
-
+/* box style*/
 /* Responsive Webdesign*/
 /* Responsive Webdesign*/
-@media screen and (max-width:1280px)
+@media screen and (max-width: 1280px)
 {
     .head
     {
         font-size:45px;
-        width: 1400px;
+        width: 1480px;
     }
     .cpro
-    {position:absolute;
-        padding:1px 1px 1 1px;
+    {animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300;
-        left:10;}
+        left:10;
+    }
     .cpro1
     {
-        position:absolute;
-        padding:1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300;
         left:250;
     }
     .cpro2
     {
-        position: absolute;
-        padding:1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300;
         left:490;
     }
     .cpro3
     {
-        position:absolute;
-        padding:1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300;
         left:730;
     }
     .cpro4{
-        position: absolute;
-        padding: 1px 1px 1 1px; 
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300; 
         left:970;}
     .cpro5
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:300;
         left:1200;
     }
     .cpro6
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:10;
     }
     .cpro7
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:250;
     }
     .cpro8
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:490;
     }
     .cpro9{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:730;
     }
     .cpro10
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:970;
     }
     .cpro11
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:450;
         left:1200;
     }
     .cpro12
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:10;
     }
     .cpro13
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:250;
     }
     .cpro14
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:490;
     }
     .cpro15
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:730;
     }
     .cpro16
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:970;
 
     }
     .cpro17{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:600;
         left:1200;
     }
     .cpro18
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:10;
     }
     .cpro19{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:250;
     }
     .cpro20{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:490;
     }
     .cpro21{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:730;
     }
     .cpro22
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:970;
     }
     .cpro23
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:750;
         left:1200;
     }
     .cpro24
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:10;
     }
     .cpro25{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:250;
     }
     .cpro26
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:490;
     }
     .cpro27{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:730;
     }
     .cpro28{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:970;
     }
     .cpro29{
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:900;
         left:1200;
     }
     .cpro30
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:10;
     }
     .cpro31
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:250;
     }
     .cpro32
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:490;
     }
     .cpro33
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:730;
     }
     .cpro34
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:970;
     }
     .cpro35
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1050;
         left:1200;
     }
     .cpro36
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:10;
     }
     .cpro37
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:250;
     }
     .cpro38
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:490;
     }
     .cpro39
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:730;
     }
     .cpro40
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:970;
     }
     .cpro41
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1200;
         left:1200;
     }
     .cpro42
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:10;
     }
     .cpro43
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:250;
     }
     .cpro44
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:490;
     }
     .cpro45
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:730;
     }
     .cpro46
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:970;
     }
     .cpro47
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1350;
         left:1200;
     }
     .cpro48
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:10;
     }
     .cpro49
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:250;
     }
     .cpro50
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:490;
     }
     .cpro51
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:730;
     }
     .cpro52
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:970;
     }
     .cpro53
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1500;
         left:1200;
     }
     .cpro54
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:10;
     }
     .cpro55
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:250;
     }
     .cpro56
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:490;
     }
     .cpro57
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:730;
     }
     .cpro58
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:970;
     }
     .cpro59
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1650;
         left:1200;
     }
     .cpro60
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:10;
     }
     .cpro61
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:250;
     }
     .cpro62
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:490;
     }
     .cpro63
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:730;
     }
     .cpro64
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:970;
     }
     .cpro65
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1800;
         left:1200;
     }
     .cpro66
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:10;
     }
     .cpro67
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:250;
     }
     .cpro68
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:490;
     }
     .cpro69
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:730;
     }
     .cpro70
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:970;
     }
     .cpro71
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:1950;
         left:1200;
     }
     .cpro72
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:10;
     }
     .cpro73
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:250;
     }
     .cpro74
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:490;
     }
     .cpro75
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:730;
     }
     .cpro76
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:970;
     }
     .cpro77
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2100;
         left:1200;
     }
     .cpro78
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:10;
     }
     .cpro79
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:250;
     }
     .cpro80
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:490;
     }
     .cpro81
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:730;
     }
     .cpro82
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:970;
     }
     .cpro83
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2250;
         left:1200;
     }
     .cpro84
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:10;
     }
     .cpro85
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:250;
     }
     .cpro86
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:490;
     }
     .cpro87
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:730;
     }
     .cpro88
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:970;
     }
     .cpro89
     {
-        position: absolute;
-        padding: 1px 1px 1 1px;
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
         top:2400;
         left:1200;
     }
         
+}
+
+
+@media screen and (min-width: 1279px)
+{
+    .head
+    {
+        font-size:300px;
+        width: 5500px;
+        height:500px;
+    }
+    .cpro
+    { animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:10;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro1
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:300;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro2
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:590;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro3
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:880;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro4
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1170;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro5
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1460;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro6
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1750;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro7
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2040;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro8
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2330;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro9
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro10
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2910;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro11
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3200;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro12
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3490;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro13
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3780;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro14
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4070;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro15
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4360;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro16
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4650;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro17
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4940;
+        top:650;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro18
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:10;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro19
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:300;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro20
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:590;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro21
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:880;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro22
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1170;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro23
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1460;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro24
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1750;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro25
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2040;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro26
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2330;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro27
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro28
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2910;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro29
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3200;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro30
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3490;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro31
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3780;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+
+    .cpro32
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4070;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro33
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4360;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro34
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4650;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro35
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4940;
+        top:1000;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro36
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:10;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro37
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:300;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro38
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:590;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro39{
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:880;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro40
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1170;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro41
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1460;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro42
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1750;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro43
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2040;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro44
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2330;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro45
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro46
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2910;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro47
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3200;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro48
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3490;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro49
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3780;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro50
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4070;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro51
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4360;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro52
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4650;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro53
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4940;
+        top:1350;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro54
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:10;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro55
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:300;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro56
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:590;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro57
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:880;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro58
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1170;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro59
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1460;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro60
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1750;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro61
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2040;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro62
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2330;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro63
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro64
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2910;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro65
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3200;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro66
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3490;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro67
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3780;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro68
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4070;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro69
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4360;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro70
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4650;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro71
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4940;
+        top:1700;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro72
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:10;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro73
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:300;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro74
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:590;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro75
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:880;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro76
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1170;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro77
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1460;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro78
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:1750;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro79
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2040;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro80
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2330;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro81
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2620;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro82
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:2910;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro83
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3200;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro84
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3490;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro85
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:3780;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro86
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4070;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro87
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4360;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro88
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4650;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
+    .cpro89
+    {
+        animation: fadeBounce 1s  forwards;
+        background:#d3dee7;
+        background-color:#e7eff5;
+        padding: 20px 20px 0 20px;
+        border: 2px solid #d3dee7;
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 150px;
+        height: 70px;
+        border-radius: 10px;
+        position:   absolute;
+        text-align: center;
+        left:4940;
+        top:2050;
+        box-shadow:5px 10px #c8c8c8;
+        cursor:pointer;
+    }
 }
