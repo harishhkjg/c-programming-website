@@ -84,10 +84,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:300;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro1
     {
@@ -106,10 +107,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:300;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro2
     {
@@ -128,10 +130,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:300;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro3
     {
@@ -150,10 +153,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:300;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro4{
         animation: fadeBounce 1s  forwards;
@@ -171,8 +175,9 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
+        text-shadow:  2px 2px 5px grey;
         top:300; 
         left:970;}
         .cpro5
@@ -192,8 +197,9 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
+        text-shadow:  2px 2px 5px grey;
         top:300; 
         left:1210;
         }
@@ -215,10 +221,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro7
     {
@@ -237,10 +244,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro8
     {
@@ -259,10 +267,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro9{
         animation: fadeBounce 1s  forwards;
@@ -280,10 +289,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro10
     {
@@ -302,10 +312,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro11
     {
@@ -324,10 +335,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:450; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro12
     {
@@ -346,10 +358,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro13
     {
@@ -368,10 +381,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro14
     {
@@ -390,10 +404,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro15
     {
@@ -412,10 +427,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro16
     {
@@ -434,11 +450,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:970;
-
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro17
     {
@@ -457,10 +473,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro18
     {
@@ -479,10 +496,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro19{
         animation: fadeBounce 1s  forwards;
@@ -500,10 +518,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro20{
         animation: fadeBounce 1s  forwards;
@@ -521,10 +540,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro21{
         animation: fadeBounce 1s  forwards;
@@ -542,10 +562,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro22
     {
@@ -564,10 +585,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro23
     {
@@ -586,10 +608,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:750; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro24
     {
@@ -608,10 +631,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro25{
         animation: fadeBounce 1s  forwards;
@@ -629,10 +653,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro26
     {
@@ -651,10 +676,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro27{
         animation: fadeBounce 1s  forwards;
@@ -672,10 +698,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro28{
         animation: fadeBounce 1s  forwards;
@@ -693,10 +720,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro29
     {
@@ -715,10 +743,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:900; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro30
     {
@@ -737,10 +766,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro31
     {
@@ -759,10 +789,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro32
     {
@@ -781,10 +812,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro33
     {
@@ -803,10 +835,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro34
     {
@@ -825,10 +858,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro35
     {
@@ -847,10 +881,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1050; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro36
     {
@@ -869,10 +904,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro37
     {
@@ -891,10 +927,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro38
     {
@@ -913,10 +950,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro39
     {
@@ -935,10 +973,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro40
     {
@@ -957,10 +996,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro41
     {
@@ -979,10 +1019,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro42
     {
@@ -1001,10 +1042,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro43
     {
@@ -1023,10 +1065,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro44
     {
@@ -1045,10 +1088,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro45
     {
@@ -1067,10 +1111,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro46
     {
@@ -1089,10 +1134,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro47
     {
@@ -1111,10 +1157,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1350; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro48
     {
@@ -1133,10 +1180,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro49
     {
@@ -1155,10 +1203,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro50
     {
@@ -1177,10 +1226,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro51
     {
@@ -1199,10 +1249,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro52
     {
@@ -1221,10 +1272,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro53
     {
@@ -1243,10 +1295,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1500; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro54
     {
@@ -1265,10 +1318,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro55
     {
@@ -1287,10 +1341,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro56
     {
@@ -1309,10 +1364,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro57
     {
@@ -1331,10 +1387,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro58
     {
@@ -1353,10 +1410,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro59
     {
@@ -1375,10 +1433,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1650; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro60
     {
@@ -1397,10 +1456,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro61
     {
@@ -1419,10 +1479,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro62
     {
@@ -1441,10 +1502,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro63
     {
@@ -1463,10 +1525,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro64
     {
@@ -1485,10 +1548,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro65
     {
@@ -1507,10 +1571,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro66
     {
@@ -1529,10 +1594,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro67
     {
@@ -1551,10 +1617,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro68
     {
@@ -1573,10 +1640,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro69
     {
@@ -1595,10 +1663,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro70
     {
@@ -1617,10 +1686,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro71
     {
@@ -1639,10 +1709,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1950; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro72
     {
@@ -1661,10 +1732,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro73
     {
@@ -1683,10 +1755,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro74
     {
@@ -1705,10 +1778,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro75
     {
@@ -1727,10 +1801,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro76
     {
@@ -1749,10 +1824,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro77
     {
@@ -1771,10 +1847,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2100; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro78
     {
@@ -1793,10 +1870,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250;
         left:10;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro79
     {
@@ -1815,10 +1893,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro80
     {
@@ -1837,10 +1916,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro81
     {
@@ -1859,10 +1939,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro82
     {
@@ -1881,10 +1962,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro83
     {
@@ -1903,10 +1985,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2250; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro84
     {
@@ -1925,7 +2008,8 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:10;
@@ -1947,10 +2031,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:250;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro86
     {
@@ -1969,10 +2054,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:490;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro87
     {
@@ -1991,10 +2077,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:730;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro88
     {
@@ -2013,10 +2100,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:970;
+        text-shadow:  2px 2px 5px grey;
     }
     .cpro89
     {
@@ -2035,10 +2123,11 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400; 
         left:1210;
+        text-shadow:  2px 2px 5px grey;
     }
 @media screen and (max-width:1089px)
 {
@@ -2066,7 +2155,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:10;
@@ -2086,7 +2175,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:280;
@@ -2106,7 +2195,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:550;
@@ -2126,7 +2215,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:820;
@@ -2145,7 +2234,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400; 
         left:10;}
@@ -2164,7 +2253,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400;
         left:280;
@@ -2184,7 +2273,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400;
         left:550;
@@ -2204,7 +2293,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400;
         left:820;
@@ -2224,7 +2313,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:10;
@@ -2245,7 +2334,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:280;
@@ -2267,7 +2356,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:550;
@@ -2289,7 +2378,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:820;
@@ -2311,7 +2400,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:10;
@@ -2333,7 +2422,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:280;
@@ -2355,7 +2444,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:550;
@@ -2375,7 +2464,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:820;
@@ -2397,7 +2486,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:10;
@@ -2419,7 +2508,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:280;
@@ -2441,7 +2530,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:550;
@@ -2462,7 +2551,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:820;
@@ -2483,7 +2572,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:10;
@@ -2504,7 +2593,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:280;
@@ -2526,7 +2615,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:550;
@@ -2548,7 +2637,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:820;
@@ -2570,7 +2659,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:10;
@@ -2591,7 +2680,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:280;
@@ -2613,7 +2702,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:550;
@@ -2634,7 +2723,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:820;
@@ -2655,7 +2744,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:10;
@@ -2676,7 +2765,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:280;
@@ -2698,7 +2787,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:550;
@@ -2720,7 +2809,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:820;
@@ -2742,7 +2831,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:10;
@@ -2764,7 +2853,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:280;
@@ -2786,7 +2875,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:550;
@@ -2808,7 +2897,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:820;
@@ -2830,7 +2919,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:10;
@@ -2852,7 +2941,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:280;
@@ -2874,7 +2963,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:550;
@@ -2896,7 +2985,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:820;
@@ -2918,7 +3007,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:10;
@@ -2940,7 +3029,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:280;
@@ -2962,7 +3051,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:550;
@@ -2984,7 +3073,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:820;
@@ -3006,7 +3095,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:10;
@@ -3028,7 +3117,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:280;
@@ -3050,7 +3139,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:550;
@@ -3072,7 +3161,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:820;
@@ -3094,7 +3183,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2600;
         left:10;
@@ -3116,7 +3205,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top: 2600;
         left:280;
@@ -3138,7 +3227,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2600;
         left:550;
@@ -3160,7 +3249,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2600;
         left:820;
@@ -3182,7 +3271,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:10;
@@ -3204,7 +3293,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:280;
@@ -3226,7 +3315,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:550;
@@ -3248,7 +3337,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:820;
@@ -3270,7 +3359,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:10;
@@ -3292,7 +3381,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:280;
@@ -3314,7 +3403,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:550;
@@ -3336,7 +3425,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:820;
@@ -3358,7 +3447,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3200;
         left:10;
@@ -3380,7 +3469,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3200;
         left:280;
@@ -3402,7 +3491,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3200;
         left:550;
@@ -3424,7 +3513,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3200;
         left:820;
@@ -3446,7 +3535,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3400;
         left:10;
@@ -3468,7 +3557,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3400;
         left:280;
@@ -3490,7 +3579,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3400;
         left:550;
@@ -3512,7 +3601,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3400;
         left:820;
@@ -3534,7 +3623,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3600;
         left:10;
@@ -3556,7 +3645,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3600;
         left:280;
@@ -3578,7 +3667,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3600;
         left:550;
@@ -3600,7 +3689,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3600;
         left:820;
@@ -3622,7 +3711,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3800;
         left:10;
@@ -3644,7 +3733,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3800;
         left:280;
@@ -3666,7 +3755,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3800;
         left:550;
@@ -3688,7 +3777,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3800;
         left:820;
@@ -3710,7 +3799,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4000;
         left:10;
@@ -3732,7 +3821,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4000;
         left:280;
@@ -3754,7 +3843,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4000;
         left:550;
@@ -3776,7 +3865,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4000;
         left:820;
@@ -3798,7 +3887,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4200;
         left:10;
@@ -3820,7 +3909,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4200;
         left:280;
@@ -3842,7 +3931,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4200;
         left:550;
@@ -3864,7 +3953,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4200;
         left:820;
@@ -3886,7 +3975,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4400;
         left:10;
@@ -3908,7 +3997,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4400;
         left:280;
@@ -3930,7 +4019,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4400;
         left:550;
@@ -3952,7 +4041,7 @@ a:hover
         text-align: center;
         left:2620;
         top:2050;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:4400;
         left:820;
@@ -3991,7 +4080,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:10;
@@ -4013,7 +4102,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:300;
@@ -4035,7 +4124,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:590;
@@ -4057,7 +4146,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:10;
@@ -4079,7 +4168,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:300;
@@ -4101,7 +4190,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:590;
@@ -4123,7 +4212,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:10;
@@ -4145,7 +4234,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:300;
@@ -4167,7 +4256,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:590;
@@ -4189,7 +4278,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:10;
@@ -4211,7 +4300,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:300;
@@ -4233,7 +4322,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:590;
@@ -4255,7 +4344,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:10;
@@ -4277,7 +4366,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:300;
@@ -4299,7 +4388,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:590;
@@ -4321,7 +4410,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:10;
@@ -4343,7 +4432,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:300;
@@ -4365,7 +4454,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:590;
@@ -4387,7 +4476,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:10;
@@ -4409,7 +4498,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:300;
@@ -4431,7 +4520,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:590;
@@ -4453,7 +4542,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:10;
@@ -4475,7 +4564,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:300;
@@ -4497,7 +4586,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:590;
@@ -4519,7 +4608,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:10;
@@ -4541,7 +4630,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:300;
@@ -4563,7 +4652,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:590;
@@ -4585,7 +4674,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:10;
@@ -4607,7 +4696,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:300;
@@ -4629,7 +4718,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:590;
@@ -4651,7 +4740,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:10;
@@ -4673,7 +4762,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:300;
@@ -4695,7 +4784,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:590;
@@ -4739,7 +4828,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:10;
@@ -4761,7 +4850,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:280;
@@ -4783,7 +4872,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:550;
@@ -4805,7 +4894,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:10;
@@ -4827,7 +4916,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:280;
@@ -4849,7 +4938,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:550;
@@ -4871,7 +4960,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:10;
@@ -4893,7 +4982,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:280;
@@ -4915,7 +5004,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:550;
@@ -4937,7 +5026,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:10;
@@ -4959,7 +5048,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:280;
@@ -4981,7 +5070,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:550;
@@ -5003,7 +5092,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:10;
@@ -5025,7 +5114,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:280;
@@ -5047,7 +5136,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:550;
@@ -5069,7 +5158,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:10;
@@ -5091,7 +5180,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:280;
@@ -5113,7 +5202,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:550;
@@ -5135,7 +5224,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:10;
@@ -5157,7 +5246,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:280;
@@ -5179,7 +5268,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:550;
@@ -5201,7 +5290,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:10;
@@ -5223,7 +5312,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:280;
@@ -5245,7 +5334,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:550;
@@ -5267,7 +5356,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:10;
@@ -5289,7 +5378,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:280;
@@ -5311,7 +5400,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:550;
@@ -5333,7 +5422,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:10;
@@ -5355,7 +5444,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:280;
@@ -5377,7 +5466,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:550;
@@ -5399,7 +5488,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:10;
@@ -5421,7 +5510,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:280;
@@ -5443,7 +5532,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:550;
@@ -5487,7 +5576,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:10;
@@ -5509,7 +5598,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:260;
@@ -5531,7 +5620,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:510;
@@ -5553,7 +5642,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:10;
@@ -5575,7 +5664,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:260;
@@ -5597,7 +5686,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:510;
@@ -5619,7 +5708,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:10;
@@ -5641,7 +5730,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:260;
@@ -5663,7 +5752,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:510;
@@ -5685,7 +5774,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:10;
@@ -5707,7 +5796,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:260;
@@ -5729,7 +5818,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:510;
@@ -5751,7 +5840,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:10;
@@ -5773,7 +5862,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:260;
@@ -5795,7 +5884,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:510;
@@ -5817,7 +5906,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:10;
@@ -5839,7 +5928,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:260;
@@ -5861,7 +5950,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:510;
@@ -5883,7 +5972,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:10;
@@ -5905,7 +5994,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:260;
@@ -5927,7 +6016,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:510;
@@ -5949,7 +6038,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:10;
@@ -5971,7 +6060,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:260;
@@ -5993,7 +6082,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:510;
@@ -6015,7 +6104,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:10;
@@ -6037,7 +6126,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:260;
@@ -6059,7 +6148,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:510;
@@ -6081,7 +6170,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:10;
@@ -6103,7 +6192,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:260;
@@ -6125,7 +6214,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:510;
@@ -6147,7 +6236,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:10;
@@ -6169,7 +6258,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:260;
@@ -6191,7 +6280,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:510;
@@ -6235,7 +6324,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:10;
@@ -6257,7 +6346,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:240;
@@ -6279,7 +6368,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:200;
     left:470;
@@ -6301,7 +6390,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:10;
@@ -6323,7 +6412,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:230;
@@ -6345,7 +6434,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:400;
     left:470;
@@ -6367,7 +6456,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:10;
@@ -6389,7 +6478,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:230;
@@ -6411,7 +6500,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:600;
     left:470;
@@ -6433,7 +6522,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:10;
@@ -6455,7 +6544,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:230;
@@ -6477,7 +6566,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:800;
     left:470;
@@ -6499,7 +6588,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:10;
@@ -6521,7 +6610,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:230;
@@ -6543,7 +6632,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1000;
     left:470;
@@ -6565,7 +6654,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:10;
@@ -6587,7 +6676,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:230;
@@ -6609,7 +6698,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1200;
     left:470;
@@ -6631,7 +6720,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:10;
@@ -6653,7 +6742,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:230;
@@ -6675,7 +6764,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1400;
     left:470;
@@ -6697,7 +6786,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:10;
@@ -6719,7 +6808,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:230;
@@ -6741,7 +6830,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1600;
     left:470;
@@ -6763,7 +6852,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:10;
@@ -6785,7 +6874,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:230;
@@ -6807,7 +6896,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:1800;
     left:470;
@@ -6829,7 +6918,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:10;
@@ -6851,7 +6940,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:230;
@@ -6873,7 +6962,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2000;
     left:470;
@@ -6895,7 +6984,7 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:10;
@@ -6917,10 +7006,11 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:230;
+    text-shadow:  2px 2px 5px grey;
    }
    .cpro32
    {
@@ -6939,10 +7029,11 @@ a:hover
     text-align: center;
     left:2620;
     top:2050;
-    box-shadow:5px 10px #c8c8c8;
+    box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
     cursor:pointer;
     top:2200;
     left:470;
+    text-shadow:  2px 2px 5px grey;
    }
    .cpro33,.cpro34,.cpro35,.cpro36,.cpro37,
    .cpro38,.cpro39,.cpro40,.cpro41,.cpro42,.cpro43,.cpro44,.cpro45,.cpro46,.cpro47,.cpro48,.cpro49,.cpro50,.cpro51,.cpro52,.cpro53,.cpro54,
@@ -6982,7 +7073,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:200;
         left:50;
@@ -7002,7 +7094,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:200;
         left:350;
@@ -7022,7 +7115,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:400;
         left:50;
@@ -7042,7 +7136,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:400;
         left:350;
@@ -7062,7 +7157,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:600;
         left:50;
@@ -7082,7 +7178,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:600;
         left:350;
@@ -7102,7 +7199,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:800;
         left:50;
@@ -7122,7 +7220,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:800;
         left:350;
@@ -7142,7 +7241,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1000;
         left:50;
@@ -7162,7 +7262,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1000;
         left:350;
@@ -7182,7 +7283,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1200;
         left:50;
@@ -7202,7 +7304,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1200;
         left:350;
@@ -7222,7 +7325,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1400;
         left:50;
@@ -7242,7 +7346,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1400;
         left:350;
@@ -7262,7 +7367,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1600;
         left:50;
@@ -7282,7 +7388,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1600;
         left:350;
@@ -7302,7 +7409,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1800;
         left:50;
@@ -7322,7 +7430,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1800;
         left:350;
@@ -7342,7 +7451,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2000;
         left:50;
@@ -7362,7 +7472,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2000;
         left:350;
@@ -7382,7 +7493,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2200;
         left:50;
@@ -7402,7 +7514,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2200;
         left:350;
@@ -7422,7 +7535,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:50;
@@ -7442,7 +7556,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:350;
@@ -7462,7 +7577,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2600;
         left:50;
@@ -7482,7 +7598,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2600;
         left:350;
@@ -7502,7 +7619,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2800;
         left:50;
@@ -7522,7 +7640,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2800;
         left:350;
@@ -7542,7 +7661,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3000;
         left:50;
@@ -7562,7 +7682,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3000;
         left:350;
@@ -7582,7 +7703,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:50;
@@ -7602,7 +7724,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:350;
@@ -7622,7 +7745,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:50;
@@ -7642,7 +7766,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:350;
@@ -7657,7 +7782,6 @@ a:hover
    }
        
 }
-    
 @media  screen and (max-width:600px) {
     .head
        {
@@ -7683,10 +7807,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro1
        {
@@ -7703,10 +7828,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:200;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro2
        {
@@ -7723,10 +7849,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro3
        {
@@ -7743,10 +7870,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:400;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro4
        {
@@ -7763,10 +7891,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro5
        {
@@ -7783,10 +7912,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:600;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro6
        {
@@ -7803,10 +7933,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro7
        {
@@ -7823,10 +7954,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:800;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro8
        {
@@ -7843,10 +7975,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro9
        {
@@ -7863,10 +7996,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1000;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro10
        {
@@ -7883,10 +8017,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro11
        {
@@ -7903,10 +8038,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1200;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro12
        {
@@ -7923,10 +8059,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro13
        {
@@ -7943,10 +8080,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1400;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro14
        {
@@ -7963,10 +8101,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro15
        {
@@ -7983,10 +8122,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1600;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro16
        {
@@ -8003,10 +8143,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro17
        {
@@ -8023,7 +8164,7 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:1800;
         left:300;
@@ -8043,10 +8184,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro19
        {
@@ -8063,10 +8205,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2000;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro20
        {
@@ -8083,10 +8226,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro21
        {
@@ -8103,10 +8247,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2200;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro22
        {
@@ -8123,10 +8268,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro23
        {
@@ -8143,10 +8289,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2400;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro24
        {
@@ -8163,10 +8310,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2600;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro25
        {
@@ -8183,10 +8331,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2600;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro26
        {
@@ -8203,10 +8352,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro27
        {
@@ -8223,10 +8373,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:2800;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro28
        {
@@ -8243,10 +8394,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro29
        {
@@ -8263,10 +8415,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3000;
         left:300;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro30
        {
@@ -8283,10 +8436,11 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
         cursor:pointer;
         top:3200;
         left:40;
+        text-shadow:  2px 2px 5px grey;
        }
        .cpro31
        {
@@ -8303,7 +8457,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:300;
@@ -8323,7 +8478,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:40;
@@ -8343,7 +8499,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:300;
@@ -8384,7 +8541,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:200;
         left:100;
@@ -8404,7 +8562,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:400;
         left:100;
@@ -8424,7 +8583,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:600;
         left:100;
@@ -8444,7 +8604,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:800;
         left:100;
@@ -8464,7 +8625,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1000;
         left:100;
@@ -8484,7 +8646,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1200;
         left:100;
@@ -8504,7 +8667,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1400;
         left:100;
@@ -8524,7 +8688,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1600;
         left:100;
@@ -8544,7 +8709,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1800;
         left:100;
@@ -8564,7 +8730,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2000;
         left:100;
@@ -8584,7 +8751,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2200;
         left:100;
@@ -8604,7 +8772,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:100;
@@ -8624,7 +8793,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2600;
         left:100;
@@ -8644,7 +8814,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2800;
         left:100;
@@ -8664,7 +8835,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3000;
         left:100;
@@ -8684,7 +8856,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:100;
@@ -8704,7 +8877,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:100;
@@ -8724,7 +8898,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3600;
         left:100;
@@ -8744,7 +8919,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3800;
         left:100;
@@ -8764,7 +8940,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4000;
         left:100;
@@ -8784,7 +8961,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4200;
         left:100;
@@ -8804,7 +8982,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4400;
         left:100;
@@ -8824,7 +9003,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4600;
         left:100;
@@ -8844,7 +9024,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4800;
         left:100;
@@ -8864,7 +9045,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:5000;
         left:100;
@@ -8905,7 +9087,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:200;
         left:50;
@@ -8925,7 +9108,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:400;
         left:50;
@@ -8945,7 +9129,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:600;
         left:50;
@@ -8965,7 +9150,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:800;
         left:50;
@@ -8985,7 +9171,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1000;
         left:50;
@@ -9005,7 +9192,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1200;
         left:50;
@@ -9025,7 +9213,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1400;
         left:50;
@@ -9045,7 +9234,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1600;
         left:50;
@@ -9065,7 +9255,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1800;
         left:50;
@@ -9085,7 +9276,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2000;
         left:50;
@@ -9105,7 +9297,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2200;
         left:50;
@@ -9125,7 +9318,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:50;
@@ -9145,7 +9339,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2600;
         left:50;
@@ -9165,7 +9360,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2800;
         left:50;
@@ -9185,7 +9381,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3000;
         left:50;
@@ -9205,7 +9402,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:50;
@@ -9225,7 +9423,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:50;
@@ -9245,7 +9444,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3600;
         left:50;
@@ -9265,7 +9465,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3800;
         left:50;
@@ -9285,7 +9486,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4000;
         left:50;
@@ -9305,7 +9507,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4200;
         left:50;
@@ -9325,7 +9528,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4400;
         left:50;
@@ -9345,7 +9549,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4600;
         left:50;
@@ -9365,7 +9570,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4800;
         left:50;
@@ -9385,7 +9591,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:5000;
         left:50;
@@ -9426,7 +9633,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:200;
         left:30;
@@ -9446,7 +9654,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:400;
         left:30;
@@ -9466,7 +9675,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:600;
         left:30;
@@ -9486,7 +9696,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:800;
         left:30;
@@ -9506,7 +9717,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1000;
         left:30;
@@ -9526,7 +9738,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1200;
         left:30;
@@ -9546,7 +9759,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1400;
         left:30;
@@ -9566,7 +9780,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1600;
         left:30;
@@ -9586,7 +9801,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:1800;
         left:30;
@@ -9606,7 +9822,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2000;
         left:30;
@@ -9626,7 +9843,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2200;
         left:30;
@@ -9646,7 +9864,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2400;
         left:30;
@@ -9666,7 +9885,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2600;
         left:30;
@@ -9686,7 +9906,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:2800;
         left:30;
@@ -9706,7 +9927,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3000;
         left:30;
@@ -9726,7 +9948,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3200;
         left:30;
@@ -9746,7 +9969,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3400;
         left:30;
@@ -9766,7 +9990,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3600;
         left:30;
@@ -9786,7 +10011,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:3800;
         left:30;
@@ -9806,7 +10032,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4000;
         left:30;
@@ -9826,7 +10053,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4200;
         left:30;
@@ -9846,7 +10074,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4400;
         left:30;
@@ -9866,7 +10095,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4600;
         left:30;
@@ -9886,7 +10116,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:4800;
         left:30;
@@ -9906,7 +10137,8 @@ a:hover
         border-radius: 10px;
         position:   absolute;
         text-align: center;
-        box-shadow:5px 10px #c8c8c8;
+        box-shadow:0 0 10px inset #00ff00,0 0 10px #ffd700;
+        text-shadow:  2px 2px 5px grey;
         cursor:pointer;
         top:5000;
         left:30;
