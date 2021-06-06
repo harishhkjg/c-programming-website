@@ -10,7 +10,7 @@ body
     background: url(background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position:center;
+    
 }
 .menu-bar
 {
@@ -56,6 +56,7 @@ body
 {
     display:block;
     margin:10px;
+    overflow: hidden;
 }
 .menu-bar ul li:hover   .sub-menu1 ul li
 {
@@ -187,7 +188,6 @@ body
 {width:60px;
     margin:1px;
     padding:4px;
-    
 }
 .menu-bar ul li 
 {
@@ -202,10 +202,18 @@ body
 }
 @media screen and (max-width:600px)
 {
-
+    .menu-bar ul li:hover   .sub-menu1 ul li
+    {overflow:hidden;}
     .cpro
     {margin-top: 40%;
         margin-left:15%;
         font-size: 200%;
     }
 }
+/*@media screen and (max-height:350px){
+    .menu-bar ul li:hover   .sub-menu1 ul li
+    {overflow:hidden;}
+}*/
+
+
+
