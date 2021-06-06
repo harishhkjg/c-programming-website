@@ -1,9 +1,6 @@
 body{
-    font-style:italic;
-    color:red;
+    font-family: sans-serif;
+    color:#fff;
     font-size:20px;
-    background-color:lightgrey;
-}
-c-program {
-font-style:italic;
+    background-color:#000;
 }
